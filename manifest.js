@@ -1,7 +1,7 @@
 module.exports={
     id: "org.community.YourIPTV",
     version: "2.0.0",
-    name: "MikMc IPTV",
+    name: "STREMIO GRUPO",
     logo: "https://raw.githubusercontent.com/mik25/hy-uhd/main/self-portrait-my-music-room-ride-of-the-valkyries-thomas-pollart%20(2).jpg",
     description: "STREMIO IPTV",
     types: ["movie", "series","tv","channel"],
